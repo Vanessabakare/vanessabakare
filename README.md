@@ -71,8 +71,8 @@ Remote/hybrid **Junior–Mid Cloud/DevOps** roles—especially in SaaS, healthte
 ---
 
 ## Portfolio & Code
-- **LinkedIn:** ongoing AWS/Kubernetes/DevOps learning journal → [Add your link](https://www.linkedin.com/in/bakare-vanessa/)
-- **GitHub:** infrastructure code, labs, and experiments → [Add your link](https://github.com/Vanessabakare/)
+- **LinkedIn:** ongoing AWS/Kubernetes/DevOps learning journal → [Click here](https://www.linkedin.com/in/bakare-vanessa/)
+- **GitHub:** infrastructure code, labs, and experiments → [Click here](https://github.com/Vanessabakare/)
 
 <!-- Optional badges (replace links/labels as needed) -->
 <!--
