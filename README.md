@@ -63,5 +63,5 @@ Graduate and junior Cloud/DevOps and software engineering roles, especially in S
 
 ## Portfolio & Code
 
-- **LinkedIn:** ongoing AWS and DevOps learning journal → [Click here](#)
-- **GitHub:** infrastructure code, labs and experiments → [Click here](#)
+- **LinkedIn:** ongoing AWS and DevOps learning journal → [Click here](https://www.linkedin.com/in/bakare-vanessa)
+- **GitHub:** infrastructure code, labs and experiments → [Click here](https://github.com/Vanessabakare/)
